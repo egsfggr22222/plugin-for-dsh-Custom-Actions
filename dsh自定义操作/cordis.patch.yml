@@ -1,9 +1,0 @@
-# dsh-hotkeys bundle patch.
-#
-# One insert mounts the Host half (state, window raise, reminder card). The
-# browser half rides package.json's `dsh.client` declaration and binds to this
-# same row.
-- insert:
-    - id: dsh-hotkeys
-      name: 'dsh-hotkeys'
-      config: {}
