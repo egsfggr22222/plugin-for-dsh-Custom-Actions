@@ -33,7 +33,7 @@ window.__ModuleLoader__.load({
       }
     })()
     /** How quickly a tap-tap binding needs its second tap. */
-    const DOUBLE_MS = 350
+    const DOUBLE_MS = 150
     /** How long "everything idle" has to last before it means finished. */
     const SETTLE_MS = 8000
     /** Two reminders closer than this are one event. */
